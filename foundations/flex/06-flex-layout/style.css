@@ -38,7 +38,7 @@ input {
   display: flex;
   justify-content: space-evenly;
   gap: 16px;
-  padding: 8px;
+  padding: 8px 16px;
 }
 
 ul {
@@ -48,10 +48,11 @@ ul {
 
 a {
   text-decoration: none;
+  color: rgb(111, 106, 106);
 }
 
 .footer {
-
+  background-color: lightgray;
 }
 
 .container {
